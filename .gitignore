@@ -1,1 +1,4 @@
 *.idea
+collection-interfaces/target/
+common-test-tool/target/
+stream-api/target/
