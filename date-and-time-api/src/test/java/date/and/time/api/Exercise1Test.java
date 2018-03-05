@@ -20,7 +20,7 @@ public class Exercise1Test {
         /**
          * Create a {@link LocalDate} of 2015-06-18 by using {@link LocalDate#of}
          */
-        LocalDate localDate = null;
+        LocalDate localDate = LocalDate.of(2015, 06, 18);
 
         assertThat(localDate.toString(), is("2015-06-18"));
     }
