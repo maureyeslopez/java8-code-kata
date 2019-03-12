@@ -1,0 +1,84 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "common-test-tool",
+                "projectName": "common-test-tool",
+                "workingDirectory": "/Users/maureyes/dev/java8-code-kata/common-test-tool",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "collection-interfaces",
+                "projectName": "collection-interfaces",
+                "workingDirectory": "/Users/maureyes/dev/java8-code-kata/collection-interfaces",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "stream-api",
+                "projectName": "stream-api",
+                "workingDirectory": "/Users/maureyes/dev/java8-code-kata/stream-api",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "date-and-time-api",
+                "projectName": "date-and-time-api",
+                "workingDirectory": "/Users/maureyes/dev/java8-code-kata/date-and-time-api",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "common-test-tool",
+                "projectName": "common-test-tool",
+                "workingDirectory": "/Users/maureyes/dev/java8-code-kata/common-test-tool",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "collection-interfaces",
+                "projectName": "collection-interfaces",
+                "workingDirectory": "/Users/maureyes/dev/java8-code-kata/collection-interfaces",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "stream-api",
+                "projectName": "stream-api",
+                "workingDirectory": "/Users/maureyes/dev/java8-code-kata/stream-api",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "date-and-time-api",
+                "projectName": "date-and-time-api",
+                "workingDirectory": "/Users/maureyes/dev/java8-code-kata/date-and-time-api",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
