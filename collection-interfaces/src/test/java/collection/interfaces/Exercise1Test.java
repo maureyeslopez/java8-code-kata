@@ -40,8 +40,7 @@ public class Exercise1Test extends ClassicOnlineStore {
          * Create a {@link Predicate} which predicates if the input string contains "e".
          * Remove elements from {@link nameCollection} which contains "e" using {@link Collection#removeIf}.
          */
-        Predicate<Object> predicate = (name) -> ((String) name).toLowerCase().contains("e");
-        nameCollection.removeIf(predicate);
+        nameCollection.removeIf(name -> name.toLowerCase().contains("e"));
 
         assertThat(nameCollection.toString(), is("[Patrick, Chris]"));
     }
